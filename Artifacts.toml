@@ -1,0 +1,384 @@
+[[nlminb]]
+arch = "aarch64"
+git-tree-sha1 = "6e2ee88c8dcc9b0954e528f8f6feea7581115ae4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "8a3d51ce45564e949a4b1c443e60d3949e4e2cafc91bb5c01a32863888eff439"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "aarch64"
+git-tree-sha1 = "f4b8e684be59911c469dea9f9f9bcf30ff5c3ee5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "069cada5e08e9f6bb3f019cb63ee7b8374e8d503c6fc33ac41b317ff797fae52"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "aarch64"
+git-tree-sha1 = "04b997e1bf8e788b3910b8d14a5619f0c59aed0e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "ede9b2d38145ff91fb5df75d6b1bcdb084b887f1cf52def9fe813445a0e9083f"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "aarch64"
+git-tree-sha1 = "a719be0e13319fc6166e4077a576839fdf876df4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "9c8b274c0c00f7db173a89f6800110870f577672210ef4af62ee1587f0a3a4f4"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "aarch64"
+git-tree-sha1 = "f965770aa271c8097f468ce8164c9b48741bbd0a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "1cd6203dad0ea369520fd2ed0afb4bdb1b40f2c8e751603bd04c8119ca595651"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "aarch64"
+git-tree-sha1 = "ca83e2cfb37fc897aae82979f5653d1d6b9a1845"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "483cc37963adda1fb425c37ba69de7a02510eca6fa2f263d0dcb3dc9634370b5"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "22eee36c881c8a146369656bbc2e896db3070151"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "bb734143665ecae1b589bb9cda569e771441e98765df6c02fa78716a712ca59d"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fb3f3c46331eccec9d1372fef62099ebfb5b94c1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "b26ffd87931eee783d2a2e1e248570c160e8c592d5033aef6f3b1edd725d06ff"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e1e44f3a0611238539eb085e749491118df44866"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "fafdb26b7ef55620f3c1ee61becce953ab6b90a7ddced401c16446f93e41ac13"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4028f240ce2c15f08c83a4125865e72b54a78986"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "ee99469ca7d78e4e8c8c9399f9866b4a88f0f00d36bc6ac037a86d14480bb73e"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ec921a8c2002b42a975aace738b141dcb8c8c4fa"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "ca4bfdddb0077518af31a5ad2d794f828399d9f3240e72e64d280ecddc69cd90"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "00bcad8349e66ebd4e628832e35aa910d01445fb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "3e7b5391eaf53524e1f06bc3308fb00975986c5c2a39ffb072945b67ecf5b2bf"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "0b691f5e0581eaf9f17bda30e8c02052791dec25"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "deed8a9d36aee0518b6d3a3700d2614d5c749e17b01644d4fe28030e72cb7c5b"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "87bfbae8886a97610bafbf4637e41a9f66691f0d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "b971e6ab2fdb261716873bab8d05a58433bc531fd1e2cfd26cbdbf98d76138ed"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "99f0ed921713e1e7f09309aa1e11a84454de36d6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "d2059689fd0076e00ae00c6a613e01c525089b9f49cb87638b0646a074b3a69c"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "41e0bf0bae31a106c29d6e05202cf19bd596ffa4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "583097bb9e9d05762354355656c0415cae36582b2639e0be8d2b9d52a9692ee9"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "f667d262d414c2ec7c9050bebb46752b8af4036c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "5dd83efe4d58278ad3cea0c93f4a5a21eaf1665a648ede2a97b34ca5726e1fcf"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "3871179ab2b49866ba37cc00a7f4b3298d119d29"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "82d12cfc3f1a25c3533ab61679d4bc7b981b1ef51af88ae7348aeadd9d9acbef"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "e3cea091df583aa713ccfdccb3513b7f5a5c3798"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[nlminb.download]]
+    sha256 = "5bbf57a1dc265d7593e3d46a1b4d996ad0665284872d2d1fd66300e68cbc9eed"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "b70c1f429127444e4225fe235892126c06dd1e8a"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[nlminb.download]]
+    sha256 = "f192eba1b5dd2eb958864b202a2de6acd0adb082ec49c606d6e8a6fdfdf812e0"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "i686"
+git-tree-sha1 = "8d92db35d506e6f624f48a7ebf6882ae954b47d0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[nlminb.download]]
+    sha256 = "fa12f00964511422d26a9a0fa2bb8e842cd72d4ac742c4a9a995834fff77830e"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "powerpc64le"
+git-tree-sha1 = "f57fd2055e3fab9825eb10f87c8b3bdb5288a575"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "6dae7164b4f0bdd6f0b4f0bcb751f47889deeaf166150d0ef1bccfaac3bf6489"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "powerpc64le"
+git-tree-sha1 = "d3de4edf4120e9d826eb32463f4df9d85781a7b1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "214a040bc9d8413a20ca4f00a6d6ca91ed1a5b95ee33aeb660c4631db7674e8c"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "powerpc64le"
+git-tree-sha1 = "30d72887e4f2bab5615817c2eed0f5e717fff7d3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "c0be95c3a77db147c626a58636461808143ecc725c5f82d1c64933027a89f9b9"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "95b9300cf4e42a4823d047b1554af4d6ec543bd7"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[nlminb.download]]
+    sha256 = "70c2f398fea97ca124725c420ac071dce624dd9a40baca102ce79714b97bc8bd"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "b9c5a3dd140fa69f3735253e0ab542060df55afd"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[nlminb.download]]
+    sha256 = "4a21a5ce53540fd01c001e58925182ad90f24207fc59d26e578671e08c0c5eb1"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "71dbcc4c97353735793ad64a096a022578c4e3dd"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[nlminb.download]]
+    sha256 = "2b47eeb9afbfa222b6e1c5f4a08fa5a11c71e8644b7a17523f2714abce1487ae"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "b5edc29f6515bf8c5370100df26b6cd8bf08bd22"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "91931ac5f98b07fe31343ef4dbe9edf585b7219093d1770be9721436eff44532"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "c02bdfbc33acb0e954a554c7679d77e886392ae4"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "9ae48309c6f8da8dfbccc6c5c289f242a5ab3f64011874a9bcc596bea5502551"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "80103b5362ba8952ff9ba101f12e740da23f3af3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "4d6cdb23e129dd373c284cfe4d6b6e29b33e3d49787c2c6f6248201ca0a930b7"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "0dda173bfe916ea17218af22afc62737b42df665"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "81b4db06e64db90f2f94900d895167e5ea3e2cf46a71aa40a2da08c78ee6e7e0"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "3b89f01ee4337ea3cb62c9b03f65191eea2b4c17"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "19babed1a9ce962a5f5550d29580a1024c5cec04923357b46fcda3a1e3d08a8a"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "6eece404c619113e74a61f154994d92f63ba348d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[nlminb.download]]
+    sha256 = "4fabeb66b46d27d1d2b799cf38385c903c247c83e27767719c0b849a6716738f"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "21d1db25494490bea0aebb264b2e989c12485774"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[nlminb.download]]
+    sha256 = "e0a406482bff164aaf9f9103bc626d8d2e9fe1d8265fecfea710470cfa70ffe6"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "f031109d30948eb40534cc84885550dc80713a9e"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[nlminb.download]]
+    sha256 = "0c4c10fa27dc64a88c42d693463eae69f6e7b09cd89d29b31ad2e4934330a148"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "ad957cce157e5454f4b70cd304f36a0fd862513a"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[nlminb.download]]
+    sha256 = "b310873572487dc1a14cd626dec99a1107b626c4311ca2b04bf9ba4a6fe2d8cf"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "4c357c5221e1ab3c4b40baf664dc417da2c205c2"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[nlminb.download]]
+    sha256 = "eea73b6f6b6a13d19d855c0e6a082670b694f3dc4e32bab84891d60a76f61be3"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "3e365ec5130b3daeb0b55a28b8602e627fda3554"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[nlminb.download]]
+    sha256 = "78dac387fe8476774c0ef68f5ff0f5c4bde1870b6f2a7cdf829589e05c7a92bd"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[nlminb]]
+arch = "x86_64"
+git-tree-sha1 = "11824b095d45e82f9ce04ff120fee3819be8b739"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[nlminb.download]]
+    sha256 = "b789196e7735e994c0c9723ea1afcd09e6c979026de805864ab0e646af55447c"
+    url = "https://github.com/JuliaBinaryWrappers/nlminb_jll.jl/releases/download/nlminb-v0.1.0+0/nlminb.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
